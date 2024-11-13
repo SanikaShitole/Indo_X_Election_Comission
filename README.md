@@ -11,14 +11,14 @@ The project allows users to view, add, update, and delete candidate information 
 - Update Candidate Information
 - Delete Candidate Data
 - 
-##Table of candidate contains:
-  -c_id:-contains candidate id.
-  -name:-it contains name of candidate.
-  -partyname:-it contains partyname of candidate.
-  -assembly:-it contains assembly of candidate.
-  - statename:-it contains statename of candidate.
-  - gender:-it contains gender of candidate.
-  -age:-it contains age of candidate.
+## Table of candidate contains:
+-c_id:-contains candidate id.
+-name:-it contains name of candidate.
+-partyname:-it contains partyname of candidate.
+-assembly:-it contains assembly of candidate.
+- statename:-it contains statename of candidate.
+- gender:-it contains gender of candidate.
+-age:-it contains age of candidate.
 
 ## Technologies:
 - Java 8+
